@@ -1,5 +1,4 @@
 ## Program-Enhanced-Table-Fact-Checking
-Code for paper: Program Enhanced Fact Verification with Verbalization and Graph Attention Network
 
 ## Environment
 ```
