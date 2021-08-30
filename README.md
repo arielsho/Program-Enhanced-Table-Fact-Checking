@@ -48,9 +48,6 @@ To load the [checkpoint](https://drive.google.com/file/d/1B3URYBbDu_ybZEwk-NsNMe
 python run_gvn.py --do_eval --do_test --do_simple_test --do_complex_test --do_small_test --load_dir_whole $the downloaded ckpt$ --data_dir $table_dir$ --data_dir_verb $verb output path$
 ```
 
-## Reference
-```
-```
 
 ## Contact
 
