@@ -1,5 +1,7 @@
 ## Program-Enhanced-Table-Fact-Checking
 
+Code for the EMNLP 2020 paper "Program Enhanced Fact Verification with Verbalization and Graph Attention Network"
+
 ## Environment
 ```
   python  3.7.3
@@ -51,7 +53,7 @@ python run_gvn.py --do_eval --do_test --do_simple_test --do_complex_test --do_sm
 
 ## Contact
 
-For any question, please send email to authors.
+For any questions, please send email to authors.
 
 
 
